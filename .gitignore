@@ -60,3 +60,7 @@ build*
 src/version.h
 src/microdns.pc
 
+debug
+release
+cmake-build-*
+.idea

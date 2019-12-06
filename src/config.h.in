@@ -1,0 +1,2 @@
+#define HAVE_INET_NTOP @HAVE_INET_NTOP@
+
